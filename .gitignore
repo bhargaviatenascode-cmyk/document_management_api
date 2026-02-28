@@ -9,3 +9,8 @@ uploads/
 env/
 venv/
 *.log
+
+# local env + logs
+env/
+venv/
+*.log
